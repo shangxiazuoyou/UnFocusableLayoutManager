@@ -1,0 +1,2 @@
+# UnFocusableLayoutManager
+解决因RecyclerView的Header高度超出屏幕造成布局向上部分滚动的问题
